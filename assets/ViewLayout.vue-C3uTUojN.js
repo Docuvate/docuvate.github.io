@@ -1,0 +1,1 @@
+import{d as r,aN as a,o as t,c as s,ag as l,bo as n,bp as d,u as i}from"./index-ClfUe4q2.js";const p=r({__name:"ViewLayout",setup(f){const{cx:e}=a();return(o,m)=>(t(),s("div",n(d(i(e)("flex flex-col min-h-0 flex-1 *:border-t-1/2 first:*:border-t-0 md:*:border-t-0 xl:overflow-hidden md:flex-row leading-3"))),[l(o.$slots,"default")],16))}});export{p as u};

@@ -1,3 +1,3 @@
-# Docuvate landing page
+# docuvate.de
 
-Source of [docuvate.de](https://docuvate.de), published with GitHub Pages.
+Static site published for [docuvate.de](https://docuvate.de).
