@@ -1,0 +1,1 @@
+import{af as o,o as e,c as l,ag as t}from"./index-CyLJSYNU.js";const s={},c={class:"*:border-t-1/2 xl:*:border-l-1/2 custom-scroll flex flex-col pr-0 first:*:border-t-0 xl:flex-row xl:*:border-t-0 xl:first:*:border-l-0"};function f(r,n){return e(),l("div",c,[t(r.$slots,"default")])}const d=o(s,[["render",f]]);export{d as x};

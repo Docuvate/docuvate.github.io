@@ -1,1 +1,0 @@
-import{_ as e}from"./ViewLayoutSection.vue-8AW1mpKa.js";import{d as o,o as a,R as n,O as i,V as r}from"./index-ClfUe4q2.js";const m=o({__name:"CollectionAuthentication",setup(c){return(l,t)=>(a(),n(e,null,{title:i(()=>t[0]||(t[0]=[r("Authentication")])),_:1}))}});export{m as default};

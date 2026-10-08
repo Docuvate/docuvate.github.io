@@ -4,14 +4,12 @@
   <url><loc>https://docuvate.example/docs</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/docs/api</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/docs/sdks</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://docuvate.example/docs/styles</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/impressum</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/datenschutz</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/en</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/en/docs</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/en/docs/api</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/en/docs/sdks</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://docuvate.example/en/docs/styles</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/en/impressum</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.example/en/datenschutz</loc><changefreq>weekly</changefreq></url>
 </urlset>
