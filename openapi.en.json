@@ -6181,6 +6181,12 @@
             "schema": {
               "type": "string"
             }
+          },
+          {
+            "name": "mode",
+            "required": false,
+            "in": "query",
+            "schema": {}
           }
         ],
         "responses": {
@@ -11687,10 +11693,19 @@
         "properties": {
           "html": {
             "type": "string"
+          },
+          "reconstructionReliable": {
+            "type": "boolean",
+            "default": true
+          },
+          "unreliableReason": {
+            "type": "string",
+            "nullable": true
           }
         },
         "required": [
-          "html"
+          "html",
+          "reconstructionReliable"
         ]
       },
       "LayoutIrBlockDto": {
@@ -12088,10 +12103,28 @@
         "properties": {
           "typst": {
             "type": "string"
+          },
+          "exportMode": {
+            "enum": [
+              "exakt",
+              "semantisch"
+            ],
+            "type": "string",
+            "default": "exakt"
+          },
+          "reconstructionReliable": {
+            "type": "boolean",
+            "default": true
+          },
+          "unreliableReason": {
+            "type": "string",
+            "nullable": true
           }
         },
         "required": [
-          "typst"
+          "typst",
+          "exportMode",
+          "reconstructionReliable"
         ]
       },
       "LibraryTableColumnId": {

@@ -18,6 +18,7 @@
   <url><loc>https://docuvate.de/docs/sdks</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.de/impressum</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.de/datenschutz</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://docuvate.de/lizenz</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.de/en</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.de/en/docs</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.de/en/docs/motivation</loc><changefreq>weekly</changefreq></url>
@@ -36,4 +37,5 @@
   <url><loc>https://docuvate.de/en/docs/sdks</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.de/en/impressum</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://docuvate.de/en/datenschutz</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://docuvate.de/en/license</loc><changefreq>weekly</changefreq></url>
 </urlset>
